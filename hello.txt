@@ -1,3 +1,2 @@
 第一行:Hello Git
 第二行:學會diff
-第三行
