@@ -1,5 +1,4 @@
 第一行:Hello Git
 第二行:學會diff
-背景色:lightblue
 背景色:lightpink
 
